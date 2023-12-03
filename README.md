@@ -1,19 +1,13 @@
 # 🏗 Super Language Copilot
 
-[Movespace](https://github.com/NonceGeek/awesome-movespace)-based Super Language Copilot, startup managered by [MoveDID](https://github.com/NonceGeek/MoveDID).
-
-> DAO DID: [0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09](https://explorer.aptoslabs.com/account/0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09/resources?network=mainnet)
-
 <h4 align="center">
   <a href="https://todo"> -[ Lanuch App ]- </a>
 </h4>
-<h4>
-  
-</h4>
 
 
-🧪 TODO Description
+🧪 [Movespace](https://github.com/NonceGeek/awesome-movespace)-based Super Language Copilot, startup managered by [MoveDID](https://github.com/NonceGeek/MoveDID).
 
+> DAO DID: [0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09](https://explorer.aptoslabs.com/account/0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09/resources?network=mainnet)
 
 
 ## Quickstart
