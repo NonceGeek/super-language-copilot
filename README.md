@@ -1,18 +1,14 @@
-# 🏗 AI-based Smart Contract Explorer
+# 🏗 Super Language Copilot
+
+[Movespace](https://github.com/NonceGeek/awesome-movespace)-based Super Language Copilot, startup managered by [MoveDID](https://github.com/NonceGeek/MoveDID).
+
+> DAO DID: [0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09](https://explorer.aptoslabs.com/account/0xbcf3467bf58c981a39b26fb99aa86d35912dc662d33811083f3666a0ef5ffb09/resources?network=mainnet)
 
 <h4 align="center">
-  <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
+  <a href="https://todo"> -[ Lanuch App ]- </a>
 </h4>
 <h4>
-  Other important links:
-  <br><br>
-  * <a href="https://mumbai.polygonscan.com/address/0x9d4716dc798ceac7e40b0b692e7a2fc3a353c4b1">smart contract on Mumbai Network</a>
-  <br>
-  * <a href="https://app.embedbase.xyz/datasets/f2e0aabc-a506-4217-8570-4c888d3d3556">VectorDB about Ethereum Smart Contract</a>
-  <br>
-  * <a href="https://app.embedbase.xyz/datasets/7740d47b-8ce1-4ae7-8256-049b01fa034d">VectorDB about Ethereum Smart Contract Sliced</a>
-  <br>
-  * <a href="https://app.embedbase.xyz/datasets/e4276331-4582-463b-85be-abc8b21ad739">VectorDB about Ethereum Smart Contract Analysis</a>
+  
 </h4>
 
 
